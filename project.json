@@ -1,0 +1,8 @@
+{
+  "package": "oncology_capacity_exchange",
+  "tests": "tests/capacity_contracts",
+  "entrypoint": "oncology_capacity_exchange.bin.capacity_sync",
+  "fixture_prefix": [],
+  "database_flag": "--db",
+  "analysis_fixture": "fixtures/waiting.json"
+}

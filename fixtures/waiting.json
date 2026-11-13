@@ -1,0 +1,2466 @@
+{
+  "schema_version": 1,
+  "seed": 71,
+  "origin": "2026-08-10",
+  "observed_until": "2026-09-11",
+  "horizon_days": 30,
+  "chains": [
+    {
+      "chain_id": "chain-000",
+      "subject_id": "person-000",
+      "requested_at": "2026-07-01",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-001",
+      "subject_id": "person-001",
+      "requested_at": "2026-07-02",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-002",
+      "subject_id": "person-002",
+      "requested_at": "2026-07-03",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-003",
+      "subject_id": "person-003",
+      "requested_at": "2026-07-04",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-004",
+      "subject_id": "person-004",
+      "requested_at": "2026-07-05",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-005",
+      "subject_id": "person-005",
+      "requested_at": "2026-07-06",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-006",
+      "subject_id": "person-006",
+      "requested_at": "2026-07-07",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-007",
+      "subject_id": "person-007",
+      "requested_at": "2026-07-08",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-008",
+      "subject_id": "person-008",
+      "requested_at": "2026-07-09",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-009",
+      "subject_id": "person-009",
+      "requested_at": "2026-07-10",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-010",
+      "subject_id": "person-010",
+      "requested_at": "2026-07-11",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-011",
+      "subject_id": "person-011",
+      "requested_at": "2026-07-12",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-012",
+      "subject_id": "person-012",
+      "requested_at": "2026-07-13",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-013",
+      "subject_id": "person-013",
+      "requested_at": "2026-07-14",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-014",
+      "subject_id": "person-014",
+      "requested_at": "2026-07-15",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-015",
+      "subject_id": "person-015",
+      "requested_at": "2026-07-16",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-016",
+      "subject_id": "person-016",
+      "requested_at": "2026-07-17",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-017",
+      "subject_id": "person-017",
+      "requested_at": "2026-07-18",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-018",
+      "subject_id": "person-018",
+      "requested_at": "2026-07-19",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-019",
+      "subject_id": "person-019",
+      "requested_at": "2026-07-20",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-020",
+      "subject_id": "person-020",
+      "requested_at": "2026-07-21",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-021",
+      "subject_id": "person-021",
+      "requested_at": "2026-07-22",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-022",
+      "subject_id": "person-022",
+      "requested_at": "2026-07-23",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-023",
+      "subject_id": "person-023",
+      "requested_at": "2026-07-24",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-024",
+      "subject_id": "person-024",
+      "requested_at": "2026-07-25",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-025",
+      "subject_id": "person-025",
+      "requested_at": "2026-07-26",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-026",
+      "subject_id": "person-026",
+      "requested_at": "2026-07-27",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-027",
+      "subject_id": "person-027",
+      "requested_at": "2026-07-28",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-028",
+      "subject_id": "person-028",
+      "requested_at": "2026-07-29",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-029",
+      "subject_id": "person-029",
+      "requested_at": "2026-07-30",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-030",
+      "subject_id": "person-030",
+      "requested_at": "2026-07-31",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-031",
+      "subject_id": "person-031",
+      "requested_at": "2026-08-01",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-032",
+      "subject_id": "person-032",
+      "requested_at": "2026-08-02",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-033",
+      "subject_id": "person-033",
+      "requested_at": "2026-08-03",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-034",
+      "subject_id": "person-034",
+      "requested_at": "2026-08-04",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-035",
+      "subject_id": "person-035",
+      "requested_at": "2026-08-05",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-036",
+      "subject_id": "person-036",
+      "requested_at": "2026-08-06",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-037",
+      "subject_id": "person-037",
+      "requested_at": "2026-08-07",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-038",
+      "subject_id": "person-038",
+      "requested_at": "2026-08-08",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-039",
+      "subject_id": "person-039",
+      "requested_at": "2026-08-09",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-040",
+      "subject_id": "person-040",
+      "requested_at": "2026-08-10",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-041",
+      "subject_id": "person-041",
+      "requested_at": "2026-08-11",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-042",
+      "subject_id": "person-042",
+      "requested_at": "2026-08-12",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-043",
+      "subject_id": "person-043",
+      "requested_at": "2026-08-13",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-044",
+      "subject_id": "person-044",
+      "requested_at": "2026-08-14",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-045",
+      "subject_id": "person-045",
+      "requested_at": "2026-08-15",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-046",
+      "subject_id": "person-046",
+      "requested_at": "2026-08-16",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    },
+    {
+      "chain_id": "chain-047",
+      "subject_id": "person-047",
+      "requested_at": "2026-08-17",
+      "steps": [
+        "assessment",
+        "consultation"
+      ],
+      "compatible_sites": [
+        "A",
+        "B"
+      ],
+      "deadline_days": 14,
+      "priority_group": "two-step"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "e-47-hold",
+      "chain_id": "chain-047",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-08-19",
+      "known_at": "2026-08-18"
+    },
+    {
+      "event_id": "e-47-request",
+      "chain_id": "chain-047",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-08-17",
+      "known_at": "2026-08-17"
+    },
+    {
+      "event_id": "e-46-hold",
+      "chain_id": "chain-046",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-08-18",
+      "known_at": "2026-08-17"
+    },
+    {
+      "event_id": "e-46-request",
+      "chain_id": "chain-046",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-08-16",
+      "known_at": "2026-08-16"
+    },
+    {
+      "event_id": "e-45-hold",
+      "chain_id": "chain-045",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-08-17",
+      "known_at": "2026-08-16"
+    },
+    {
+      "event_id": "e-45-request",
+      "chain_id": "chain-045",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-08-15",
+      "known_at": "2026-08-15"
+    },
+    {
+      "event_id": "e-44-hold",
+      "chain_id": "chain-044",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-08-16",
+      "known_at": "2026-08-15"
+    },
+    {
+      "event_id": "e-44-request",
+      "chain_id": "chain-044",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-08-14",
+      "known_at": "2026-08-14"
+    },
+    {
+      "event_id": "e-43-hold",
+      "chain_id": "chain-043",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-08-15",
+      "known_at": "2026-08-14"
+    },
+    {
+      "event_id": "e-43-request",
+      "chain_id": "chain-043",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-08-13",
+      "known_at": "2026-08-13"
+    },
+    {
+      "event_id": "e-42-rebook",
+      "chain_id": "chain-042",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-08-17",
+      "known_at": "2026-08-17"
+    },
+    {
+      "event_id": "e-42-cancel",
+      "chain_id": "chain-042",
+      "step": "assessment",
+      "kind": "cancelled",
+      "at": "2026-08-14",
+      "known_at": "2026-08-14"
+    },
+    {
+      "event_id": "e-42-hold",
+      "chain_id": "chain-042",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-08-14",
+      "known_at": "2026-08-13"
+    },
+    {
+      "event_id": "e-42-request",
+      "chain_id": "chain-042",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-08-12",
+      "known_at": "2026-08-12"
+    },
+    {
+      "event_id": "e-41-consultation",
+      "chain_id": "chain-041",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-28",
+      "known_at": "2026-08-29"
+    },
+    {
+      "event_id": "e-41-assessment",
+      "chain_id": "chain-041",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-08-17",
+      "known_at": "2026-08-18"
+    },
+    {
+      "event_id": "e-41-hold",
+      "chain_id": "chain-041",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-08-13",
+      "known_at": "2026-08-12"
+    },
+    {
+      "event_id": "e-41-request",
+      "chain_id": "chain-041",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-08-11",
+      "known_at": "2026-08-11"
+    },
+    {
+      "event_id": "e-40-consultation",
+      "chain_id": "chain-040",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-26",
+      "known_at": "2026-08-26"
+    },
+    {
+      "event_id": "e-40-assessment",
+      "chain_id": "chain-040",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-08-16",
+      "known_at": "2026-08-16"
+    },
+    {
+      "event_id": "e-40-hold",
+      "chain_id": "chain-040",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-08-12",
+      "known_at": "2026-08-11"
+    },
+    {
+      "event_id": "e-40-request",
+      "chain_id": "chain-040",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-08-10",
+      "known_at": "2026-08-10"
+    },
+    {
+      "event_id": "e-39-consultation",
+      "chain_id": "chain-039",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-24",
+      "known_at": "2026-08-25"
+    },
+    {
+      "event_id": "e-39-assessment",
+      "chain_id": "chain-039",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-08-15",
+      "known_at": "2026-08-16"
+    },
+    {
+      "event_id": "e-39-hold",
+      "chain_id": "chain-039",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-08-11",
+      "known_at": "2026-08-10"
+    },
+    {
+      "event_id": "e-39-request",
+      "chain_id": "chain-039",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-08-09",
+      "known_at": "2026-08-09"
+    },
+    {
+      "event_id": "e-38-consultation",
+      "chain_id": "chain-038",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-22",
+      "known_at": "2026-08-22"
+    },
+    {
+      "event_id": "e-38-assessment",
+      "chain_id": "chain-038",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-08-14",
+      "known_at": "2026-08-14"
+    },
+    {
+      "event_id": "e-38-hold",
+      "chain_id": "chain-038",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-08-10",
+      "known_at": "2026-08-09"
+    },
+    {
+      "event_id": "e-38-request",
+      "chain_id": "chain-038",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-08-08",
+      "known_at": "2026-08-08"
+    },
+    {
+      "event_id": "e-37-consultation",
+      "chain_id": "chain-037",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-20",
+      "known_at": "2026-08-21"
+    },
+    {
+      "event_id": "e-37-assessment",
+      "chain_id": "chain-037",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-08-13",
+      "known_at": "2026-08-14"
+    },
+    {
+      "event_id": "e-37-hold",
+      "chain_id": "chain-037",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-08-09",
+      "known_at": "2026-08-08"
+    },
+    {
+      "event_id": "e-37-request",
+      "chain_id": "chain-037",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-08-07",
+      "known_at": "2026-08-07"
+    },
+    {
+      "event_id": "e-36-consultation",
+      "chain_id": "chain-036",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-18",
+      "known_at": "2026-08-18"
+    },
+    {
+      "event_id": "e-36-assessment",
+      "chain_id": "chain-036",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-08-12",
+      "known_at": "2026-08-12"
+    },
+    {
+      "event_id": "e-36-hold",
+      "chain_id": "chain-036",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-08-08",
+      "known_at": "2026-08-07"
+    },
+    {
+      "event_id": "e-36-request",
+      "chain_id": "chain-036",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-08-06",
+      "known_at": "2026-08-06"
+    },
+    {
+      "event_id": "e-35-consultation",
+      "chain_id": "chain-035",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-25",
+      "known_at": "2026-08-26"
+    },
+    {
+      "event_id": "e-35-assessment",
+      "chain_id": "chain-035",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-08-11",
+      "known_at": "2026-08-12"
+    },
+    {
+      "event_id": "e-35-rebook",
+      "chain_id": "chain-035",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-08-10",
+      "known_at": "2026-08-10"
+    },
+    {
+      "event_id": "e-35-cancel",
+      "chain_id": "chain-035",
+      "step": "assessment",
+      "kind": "cancelled",
+      "at": "2026-08-07",
+      "known_at": "2026-08-07"
+    },
+    {
+      "event_id": "e-35-hold",
+      "chain_id": "chain-035",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-08-07",
+      "known_at": "2026-08-06"
+    },
+    {
+      "event_id": "e-35-request",
+      "chain_id": "chain-035",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-08-05",
+      "known_at": "2026-08-05"
+    },
+    {
+      "event_id": "e-34-consultation",
+      "chain_id": "chain-034",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-23",
+      "known_at": "2026-08-23"
+    },
+    {
+      "event_id": "e-34-assessment",
+      "chain_id": "chain-034",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-08-10",
+      "known_at": "2026-08-10"
+    },
+    {
+      "event_id": "e-34-hold",
+      "chain_id": "chain-034",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-08-06",
+      "known_at": "2026-08-05"
+    },
+    {
+      "event_id": "e-34-request",
+      "chain_id": "chain-034",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-08-04",
+      "known_at": "2026-08-04"
+    },
+    {
+      "event_id": "e-33-consultation",
+      "chain_id": "chain-033",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-21",
+      "known_at": "2026-08-22"
+    },
+    {
+      "event_id": "e-33-assessment",
+      "chain_id": "chain-033",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-08-09",
+      "known_at": "2026-08-10"
+    },
+    {
+      "event_id": "e-33-hold",
+      "chain_id": "chain-033",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-08-05",
+      "known_at": "2026-08-04"
+    },
+    {
+      "event_id": "e-33-request",
+      "chain_id": "chain-033",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-08-03",
+      "known_at": "2026-08-03"
+    },
+    {
+      "event_id": "e-32-consultation",
+      "chain_id": "chain-032",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-19",
+      "known_at": "2026-08-19"
+    },
+    {
+      "event_id": "e-32-assessment",
+      "chain_id": "chain-032",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-08-08",
+      "known_at": "2026-08-08"
+    },
+    {
+      "event_id": "e-32-hold",
+      "chain_id": "chain-032",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-08-04",
+      "known_at": "2026-08-03"
+    },
+    {
+      "event_id": "e-32-request",
+      "chain_id": "chain-032",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-08-02",
+      "known_at": "2026-08-02"
+    },
+    {
+      "event_id": "e-31-consultation",
+      "chain_id": "chain-031",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-17",
+      "known_at": "2026-08-18"
+    },
+    {
+      "event_id": "e-31-assessment",
+      "chain_id": "chain-031",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-08-07",
+      "known_at": "2026-08-08"
+    },
+    {
+      "event_id": "e-31-hold",
+      "chain_id": "chain-031",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-08-03",
+      "known_at": "2026-08-02"
+    },
+    {
+      "event_id": "e-31-request",
+      "chain_id": "chain-031",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-08-01",
+      "known_at": "2026-08-01"
+    },
+    {
+      "event_id": "e-30-consultation",
+      "chain_id": "chain-030",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-15",
+      "known_at": "2026-08-15"
+    },
+    {
+      "event_id": "e-30-assessment",
+      "chain_id": "chain-030",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-08-06",
+      "known_at": "2026-08-06"
+    },
+    {
+      "event_id": "e-30-hold",
+      "chain_id": "chain-030",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-08-02",
+      "known_at": "2026-08-01"
+    },
+    {
+      "event_id": "e-30-request",
+      "chain_id": "chain-030",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-31",
+      "known_at": "2026-07-31"
+    },
+    {
+      "event_id": "e-29-consultation",
+      "chain_id": "chain-029",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-13",
+      "known_at": "2026-08-14"
+    },
+    {
+      "event_id": "e-29-assessment",
+      "chain_id": "chain-029",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-08-05",
+      "known_at": "2026-08-06"
+    },
+    {
+      "event_id": "e-29-hold",
+      "chain_id": "chain-029",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-08-01",
+      "known_at": "2026-07-31"
+    },
+    {
+      "event_id": "e-29-request",
+      "chain_id": "chain-029",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-30",
+      "known_at": "2026-07-30"
+    },
+    {
+      "event_id": "e-28-consultation",
+      "chain_id": "chain-028",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-11",
+      "known_at": "2026-08-11"
+    },
+    {
+      "event_id": "e-28-assessment",
+      "chain_id": "chain-028",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-08-04",
+      "known_at": "2026-08-04"
+    },
+    {
+      "event_id": "e-28-rebook",
+      "chain_id": "chain-028",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-08-03",
+      "known_at": "2026-08-03"
+    },
+    {
+      "event_id": "e-28-cancel",
+      "chain_id": "chain-028",
+      "step": "assessment",
+      "kind": "cancelled",
+      "at": "2026-07-31",
+      "known_at": "2026-07-31"
+    },
+    {
+      "event_id": "e-28-hold",
+      "chain_id": "chain-028",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-31",
+      "known_at": "2026-07-30"
+    },
+    {
+      "event_id": "e-28-request",
+      "chain_id": "chain-028",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-29",
+      "known_at": "2026-07-29"
+    },
+    {
+      "event_id": "e-27-consultation",
+      "chain_id": "chain-027",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-09",
+      "known_at": "2026-08-10"
+    },
+    {
+      "event_id": "e-27-assessment",
+      "chain_id": "chain-027",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-08-03",
+      "known_at": "2026-08-04"
+    },
+    {
+      "event_id": "e-27-hold",
+      "chain_id": "chain-027",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-30",
+      "known_at": "2026-07-29"
+    },
+    {
+      "event_id": "e-27-request",
+      "chain_id": "chain-027",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-28",
+      "known_at": "2026-07-28"
+    },
+    {
+      "event_id": "e-26-consultation",
+      "chain_id": "chain-026",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-16",
+      "known_at": "2026-08-16"
+    },
+    {
+      "event_id": "e-26-assessment",
+      "chain_id": "chain-026",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-08-02",
+      "known_at": "2026-08-02"
+    },
+    {
+      "event_id": "e-26-hold",
+      "chain_id": "chain-026",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-29",
+      "known_at": "2026-07-28"
+    },
+    {
+      "event_id": "e-26-request",
+      "chain_id": "chain-026",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-27",
+      "known_at": "2026-07-27"
+    },
+    {
+      "event_id": "e-25-consultation",
+      "chain_id": "chain-025",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-14",
+      "known_at": "2026-08-15"
+    },
+    {
+      "event_id": "e-25-assessment",
+      "chain_id": "chain-025",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-08-01",
+      "known_at": "2026-08-02"
+    },
+    {
+      "event_id": "e-25-hold",
+      "chain_id": "chain-025",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-28",
+      "known_at": "2026-07-27"
+    },
+    {
+      "event_id": "e-25-request",
+      "chain_id": "chain-025",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-26",
+      "known_at": "2026-07-26"
+    },
+    {
+      "event_id": "e-24-consultation",
+      "chain_id": "chain-024",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-12",
+      "known_at": "2026-08-12"
+    },
+    {
+      "event_id": "e-24-assessment",
+      "chain_id": "chain-024",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-07-31",
+      "known_at": "2026-07-31"
+    },
+    {
+      "event_id": "e-24-hold",
+      "chain_id": "chain-024",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-27",
+      "known_at": "2026-07-26"
+    },
+    {
+      "event_id": "e-24-request",
+      "chain_id": "chain-024",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-25",
+      "known_at": "2026-07-25"
+    },
+    {
+      "event_id": "e-23-consultation",
+      "chain_id": "chain-023",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-10",
+      "known_at": "2026-08-11"
+    },
+    {
+      "event_id": "e-23-assessment",
+      "chain_id": "chain-023",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-07-30",
+      "known_at": "2026-07-31"
+    },
+    {
+      "event_id": "e-23-hold",
+      "chain_id": "chain-023",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-26",
+      "known_at": "2026-07-25"
+    },
+    {
+      "event_id": "e-23-request",
+      "chain_id": "chain-023",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-24",
+      "known_at": "2026-07-24"
+    },
+    {
+      "event_id": "e-22-consultation",
+      "chain_id": "chain-022",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-08",
+      "known_at": "2026-08-08"
+    },
+    {
+      "event_id": "e-22-assessment",
+      "chain_id": "chain-022",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-07-29",
+      "known_at": "2026-07-29"
+    },
+    {
+      "event_id": "e-22-hold",
+      "chain_id": "chain-022",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-25",
+      "known_at": "2026-07-24"
+    },
+    {
+      "event_id": "e-22-request",
+      "chain_id": "chain-022",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-23",
+      "known_at": "2026-07-23"
+    },
+    {
+      "event_id": "e-21-consultation",
+      "chain_id": "chain-021",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-06",
+      "known_at": "2026-08-07"
+    },
+    {
+      "event_id": "e-21-assessment",
+      "chain_id": "chain-021",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-07-28",
+      "known_at": "2026-07-29"
+    },
+    {
+      "event_id": "e-21-rebook",
+      "chain_id": "chain-021",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-27",
+      "known_at": "2026-07-27"
+    },
+    {
+      "event_id": "e-21-cancel",
+      "chain_id": "chain-021",
+      "step": "assessment",
+      "kind": "cancelled",
+      "at": "2026-07-24",
+      "known_at": "2026-07-24"
+    },
+    {
+      "event_id": "e-21-hold",
+      "chain_id": "chain-021",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-24",
+      "known_at": "2026-07-23"
+    },
+    {
+      "event_id": "e-21-request",
+      "chain_id": "chain-021",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-22",
+      "known_at": "2026-07-22"
+    },
+    {
+      "event_id": "e-20-consultation",
+      "chain_id": "chain-020",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-04",
+      "known_at": "2026-08-04"
+    },
+    {
+      "event_id": "e-20-assessment",
+      "chain_id": "chain-020",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-07-27",
+      "known_at": "2026-07-27"
+    },
+    {
+      "event_id": "e-20-hold",
+      "chain_id": "chain-020",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-23",
+      "known_at": "2026-07-22"
+    },
+    {
+      "event_id": "e-20-request",
+      "chain_id": "chain-020",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-21",
+      "known_at": "2026-07-21"
+    },
+    {
+      "event_id": "e-19-consultation",
+      "chain_id": "chain-019",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-02",
+      "known_at": "2026-08-03"
+    },
+    {
+      "event_id": "e-19-assessment",
+      "chain_id": "chain-019",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-07-26",
+      "known_at": "2026-07-27"
+    },
+    {
+      "event_id": "e-19-hold",
+      "chain_id": "chain-019",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-22",
+      "known_at": "2026-07-21"
+    },
+    {
+      "event_id": "e-19-request",
+      "chain_id": "chain-019",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-20",
+      "known_at": "2026-07-20"
+    },
+    {
+      "event_id": "e-18-consultation",
+      "chain_id": "chain-018",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-07-31",
+      "known_at": "2026-07-31"
+    },
+    {
+      "event_id": "e-18-assessment",
+      "chain_id": "chain-018",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-07-25",
+      "known_at": "2026-07-25"
+    },
+    {
+      "event_id": "e-18-hold",
+      "chain_id": "chain-018",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-21",
+      "known_at": "2026-07-20"
+    },
+    {
+      "event_id": "e-18-request",
+      "chain_id": "chain-018",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-19",
+      "known_at": "2026-07-19"
+    },
+    {
+      "event_id": "e-17-consultation",
+      "chain_id": "chain-017",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-07",
+      "known_at": "2026-08-08"
+    },
+    {
+      "event_id": "e-17-assessment",
+      "chain_id": "chain-017",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-07-24",
+      "known_at": "2026-07-25"
+    },
+    {
+      "event_id": "e-17-hold",
+      "chain_id": "chain-017",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-20",
+      "known_at": "2026-07-19"
+    },
+    {
+      "event_id": "e-17-request",
+      "chain_id": "chain-017",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-18",
+      "known_at": "2026-07-18"
+    },
+    {
+      "event_id": "e-16-consultation",
+      "chain_id": "chain-016",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-05",
+      "known_at": "2026-08-05"
+    },
+    {
+      "event_id": "e-16-assessment",
+      "chain_id": "chain-016",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-07-23",
+      "known_at": "2026-07-23"
+    },
+    {
+      "event_id": "e-16-hold",
+      "chain_id": "chain-016",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-19",
+      "known_at": "2026-07-18"
+    },
+    {
+      "event_id": "e-16-request",
+      "chain_id": "chain-016",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-17",
+      "known_at": "2026-07-17"
+    },
+    {
+      "event_id": "e-15-consultation",
+      "chain_id": "chain-015",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-03",
+      "known_at": "2026-08-04"
+    },
+    {
+      "event_id": "e-15-assessment",
+      "chain_id": "chain-015",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-07-22",
+      "known_at": "2026-07-23"
+    },
+    {
+      "event_id": "e-15-hold",
+      "chain_id": "chain-015",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-18",
+      "known_at": "2026-07-17"
+    },
+    {
+      "event_id": "e-15-request",
+      "chain_id": "chain-015",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-16",
+      "known_at": "2026-07-16"
+    },
+    {
+      "event_id": "e-14-consultation",
+      "chain_id": "chain-014",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-08-01",
+      "known_at": "2026-08-01"
+    },
+    {
+      "event_id": "e-14-assessment",
+      "chain_id": "chain-014",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-07-21",
+      "known_at": "2026-07-21"
+    },
+    {
+      "event_id": "e-14-rebook",
+      "chain_id": "chain-014",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-20",
+      "known_at": "2026-07-20"
+    },
+    {
+      "event_id": "e-14-cancel",
+      "chain_id": "chain-014",
+      "step": "assessment",
+      "kind": "cancelled",
+      "at": "2026-07-17",
+      "known_at": "2026-07-17"
+    },
+    {
+      "event_id": "e-14-hold",
+      "chain_id": "chain-014",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-17",
+      "known_at": "2026-07-16"
+    },
+    {
+      "event_id": "e-14-request",
+      "chain_id": "chain-014",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-15",
+      "known_at": "2026-07-15"
+    },
+    {
+      "event_id": "e-13-consultation",
+      "chain_id": "chain-013",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-07-30",
+      "known_at": "2026-07-31"
+    },
+    {
+      "event_id": "e-13-assessment",
+      "chain_id": "chain-013",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-07-20",
+      "known_at": "2026-07-21"
+    },
+    {
+      "event_id": "e-13-hold",
+      "chain_id": "chain-013",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-16",
+      "known_at": "2026-07-15"
+    },
+    {
+      "event_id": "e-13-request",
+      "chain_id": "chain-013",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-14",
+      "known_at": "2026-07-14"
+    },
+    {
+      "event_id": "e-12-consultation",
+      "chain_id": "chain-012",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-07-28",
+      "known_at": "2026-07-28"
+    },
+    {
+      "event_id": "e-12-assessment",
+      "chain_id": "chain-012",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-07-19",
+      "known_at": "2026-07-19"
+    },
+    {
+      "event_id": "e-12-hold",
+      "chain_id": "chain-012",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-15",
+      "known_at": "2026-07-14"
+    },
+    {
+      "event_id": "e-12-request",
+      "chain_id": "chain-012",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-13",
+      "known_at": "2026-07-13"
+    },
+    {
+      "event_id": "e-11-consultation",
+      "chain_id": "chain-011",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-07-26",
+      "known_at": "2026-07-27"
+    },
+    {
+      "event_id": "e-11-assessment",
+      "chain_id": "chain-011",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-07-18",
+      "known_at": "2026-07-19"
+    },
+    {
+      "event_id": "e-11-hold",
+      "chain_id": "chain-011",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-14",
+      "known_at": "2026-07-13"
+    },
+    {
+      "event_id": "e-11-request",
+      "chain_id": "chain-011",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-12",
+      "known_at": "2026-07-12"
+    },
+    {
+      "event_id": "e-10-consultation",
+      "chain_id": "chain-010",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-07-24",
+      "known_at": "2026-07-24"
+    },
+    {
+      "event_id": "e-10-assessment",
+      "chain_id": "chain-010",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-07-17",
+      "known_at": "2026-07-17"
+    },
+    {
+      "event_id": "e-10-hold",
+      "chain_id": "chain-010",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-13",
+      "known_at": "2026-07-12"
+    },
+    {
+      "event_id": "e-10-request",
+      "chain_id": "chain-010",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-11",
+      "known_at": "2026-07-11"
+    },
+    {
+      "event_id": "e-9-consultation",
+      "chain_id": "chain-009",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-07-22",
+      "known_at": "2026-07-23"
+    },
+    {
+      "event_id": "e-9-assessment",
+      "chain_id": "chain-009",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-07-16",
+      "known_at": "2026-07-17"
+    },
+    {
+      "event_id": "e-9-hold",
+      "chain_id": "chain-009",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-12",
+      "known_at": "2026-07-11"
+    },
+    {
+      "event_id": "e-9-request",
+      "chain_id": "chain-009",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-10",
+      "known_at": "2026-07-10"
+    },
+    {
+      "event_id": "e-8-consultation",
+      "chain_id": "chain-008",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-07-29",
+      "known_at": "2026-07-29"
+    },
+    {
+      "event_id": "e-8-assessment",
+      "chain_id": "chain-008",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-07-15",
+      "known_at": "2026-07-15"
+    },
+    {
+      "event_id": "e-8-hold",
+      "chain_id": "chain-008",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-11",
+      "known_at": "2026-07-10"
+    },
+    {
+      "event_id": "e-8-request",
+      "chain_id": "chain-008",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-09",
+      "known_at": "2026-07-09"
+    },
+    {
+      "event_id": "e-7-consultation",
+      "chain_id": "chain-007",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-07-27",
+      "known_at": "2026-07-28"
+    },
+    {
+      "event_id": "e-7-assessment",
+      "chain_id": "chain-007",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-07-14",
+      "known_at": "2026-07-15"
+    },
+    {
+      "event_id": "e-7-rebook",
+      "chain_id": "chain-007",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-13",
+      "known_at": "2026-07-13"
+    },
+    {
+      "event_id": "e-7-cancel",
+      "chain_id": "chain-007",
+      "step": "assessment",
+      "kind": "cancelled",
+      "at": "2026-07-10",
+      "known_at": "2026-07-10"
+    },
+    {
+      "event_id": "e-7-hold",
+      "chain_id": "chain-007",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-10",
+      "known_at": "2026-07-09"
+    },
+    {
+      "event_id": "e-7-request",
+      "chain_id": "chain-007",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-08",
+      "known_at": "2026-07-08"
+    },
+    {
+      "event_id": "e-6-consultation",
+      "chain_id": "chain-006",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-07-25",
+      "known_at": "2026-07-25"
+    },
+    {
+      "event_id": "e-6-assessment",
+      "chain_id": "chain-006",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-07-13",
+      "known_at": "2026-07-13"
+    },
+    {
+      "event_id": "e-6-hold",
+      "chain_id": "chain-006",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-09",
+      "known_at": "2026-07-08"
+    },
+    {
+      "event_id": "e-6-request",
+      "chain_id": "chain-006",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-07",
+      "known_at": "2026-07-07"
+    },
+    {
+      "event_id": "e-5-consultation",
+      "chain_id": "chain-005",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-07-23",
+      "known_at": "2026-07-24"
+    },
+    {
+      "event_id": "e-5-assessment",
+      "chain_id": "chain-005",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-07-12",
+      "known_at": "2026-07-13"
+    },
+    {
+      "event_id": "e-5-hold",
+      "chain_id": "chain-005",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-08",
+      "known_at": "2026-07-07"
+    },
+    {
+      "event_id": "e-5-request",
+      "chain_id": "chain-005",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-06",
+      "known_at": "2026-07-06"
+    },
+    {
+      "event_id": "e-4-consultation",
+      "chain_id": "chain-004",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-07-21",
+      "known_at": "2026-07-21"
+    },
+    {
+      "event_id": "e-4-assessment",
+      "chain_id": "chain-004",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-07-11",
+      "known_at": "2026-07-11"
+    },
+    {
+      "event_id": "e-4-hold",
+      "chain_id": "chain-004",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-07",
+      "known_at": "2026-07-06"
+    },
+    {
+      "event_id": "e-4-request",
+      "chain_id": "chain-004",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-05",
+      "known_at": "2026-07-05"
+    },
+    {
+      "event_id": "e-3-consultation",
+      "chain_id": "chain-003",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-07-19",
+      "known_at": "2026-07-20"
+    },
+    {
+      "event_id": "e-3-assessment",
+      "chain_id": "chain-003",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-07-10",
+      "known_at": "2026-07-11"
+    },
+    {
+      "event_id": "e-3-hold",
+      "chain_id": "chain-003",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-06",
+      "known_at": "2026-07-05"
+    },
+    {
+      "event_id": "e-3-request",
+      "chain_id": "chain-003",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-04",
+      "known_at": "2026-07-04"
+    },
+    {
+      "event_id": "e-2-consultation",
+      "chain_id": "chain-002",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-07-17",
+      "known_at": "2026-07-17"
+    },
+    {
+      "event_id": "e-2-assessment",
+      "chain_id": "chain-002",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-07-09",
+      "known_at": "2026-07-09"
+    },
+    {
+      "event_id": "e-2-hold",
+      "chain_id": "chain-002",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-05",
+      "known_at": "2026-07-04"
+    },
+    {
+      "event_id": "e-2-request",
+      "chain_id": "chain-002",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-03",
+      "known_at": "2026-07-03"
+    },
+    {
+      "event_id": "e-1-consultation",
+      "chain_id": "chain-001",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-07-15",
+      "known_at": "2026-07-16"
+    },
+    {
+      "event_id": "e-1-assessment",
+      "chain_id": "chain-001",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-07-08",
+      "known_at": "2026-07-09"
+    },
+    {
+      "event_id": "e-1-hold",
+      "chain_id": "chain-001",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-04",
+      "known_at": "2026-07-03"
+    },
+    {
+      "event_id": "e-1-request",
+      "chain_id": "chain-001",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-02",
+      "known_at": "2026-07-02"
+    },
+    {
+      "event_id": "e-0-consultation",
+      "chain_id": "chain-000",
+      "step": "consultation",
+      "kind": "completed",
+      "pool_id": "B-consult",
+      "at": "2026-07-13",
+      "known_at": "2026-07-13"
+    },
+    {
+      "event_id": "e-0-assessment",
+      "chain_id": "chain-000",
+      "step": "assessment",
+      "kind": "completed",
+      "pool_id": "A-shared",
+      "at": "2026-07-07",
+      "known_at": "2026-07-07"
+    },
+    {
+      "event_id": "e-0-rebook",
+      "chain_id": "chain-000",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-06",
+      "known_at": "2026-07-06"
+    },
+    {
+      "event_id": "e-0-cancel",
+      "chain_id": "chain-000",
+      "step": "assessment",
+      "kind": "cancelled",
+      "at": "2026-07-03",
+      "known_at": "2026-07-03"
+    },
+    {
+      "event_id": "e-0-hold",
+      "chain_id": "chain-000",
+      "step": "assessment",
+      "kind": "held",
+      "pool_id": "A-shared",
+      "at": "2026-07-03",
+      "known_at": "2026-07-02"
+    },
+    {
+      "event_id": "e-0-request",
+      "chain_id": "chain-000",
+      "step": "assessment",
+      "kind": "requested",
+      "at": "2026-07-01",
+      "known_at": "2026-07-01"
+    }
+  ],
+  "pools": [
+    {
+      "pool_id": "A-shared",
+      "site": "A",
+      "units": 1,
+      "services": [
+        "assessment",
+        "consultation"
+      ],
+      "minutes_per_service": 40,
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "open": "09:00",
+      "close": "12:00"
+    },
+    {
+      "pool_id": "B-consult",
+      "site": "B",
+      "units": 1,
+      "services": [
+        "consultation"
+      ],
+      "minutes_per_service": 40,
+      "weekdays": [
+        1,
+        3
+      ],
+      "open": "09:00",
+      "close": "12:00"
+    }
+  ],
+  "scenarios": [
+    {
+      "name": "current",
+      "changes": []
+    },
+    {
+      "name": "single-site",
+      "changes": [
+        {
+          "pool_id": "A-shared",
+          "extra_units": 1,
+          "weekdays": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "name": "shared-half-day",
+      "changes": [
+        {
+          "pool_id": "B-consult",
+          "extra_units": 1,
+          "weekdays": [
+            2
+          ]
+        }
+      ],
+      "allow_transfer": true
+    }
+  ]
+}
